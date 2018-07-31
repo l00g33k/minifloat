@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 $expsz  = 4;    # number of bits in the exponent
 $wordsz = 8;    # number of bits in the word
